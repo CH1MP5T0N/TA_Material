@@ -1,3 +1,4 @@
+#Classes include attributes in the form of variables as well as methods in the form of functions.
 class Kenny:
     emir_noticed = True
     scrolling_vtuber = True
