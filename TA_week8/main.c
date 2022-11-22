@@ -39,6 +39,14 @@ int main(){
     if(input == 4){
         printf("That's 4");
     }
+    //There are no boolean values, this means that if we want to do a while(True) function we use
+    while(1){
+        printf("LOOPING");
+    }
+    //or
+    for(;;){
+        printf("LOOPING ALSO");
+    }
     return 0;
 }
 
