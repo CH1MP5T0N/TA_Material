@@ -6,4 +6,5 @@ int main(){
     scanf("%f", &side);
     float formula = 3*sqrt(3)/2*pow(side, 2);
     printf("%0.3f", formula);
+    return 0;
 }

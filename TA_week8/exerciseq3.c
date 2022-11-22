@@ -10,4 +10,5 @@ int main(){
     printf("Tip: $%0.2f\n", tipamount);
     total = subtotal + tipamount;
     printf("Total: $%0.2f", total);
+    return 0;
 }
